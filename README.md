@@ -1,3 +1,27 @@
+# 🌅 Sunsets Rooftop AI Chatbot
+
+An intelligent restaurant assistant built with **Next.js 15**, **OpenAI GPT-4**, and a custom **RAG (Retrieval-Augmented Generation)** system.
+
+## ✨ Features
+- Understands and routes user intents deterministically (`hours`, `menu`, `events`, `payments`, etc.)
+- Uses AI polishing for natural replies (`aiPolish()` integration)
+- Multilingual (English & Spanish)
+- Reads structured JSON knowledge bases (`menu.json`, `events.json`, etc.)
+- Fast local dev with Turbopack
+
+## 🧠 Tech Stack
+- Next.js 15 (App Router)
+- OpenAI API (GPT-4 Turbo)
+- Node.js runtime
+- TailwindCSS (UI widget)
+- Custom RAG layer with JSON data
+
+## ⚙️ Setup
+```bash
+git clone https://github.com/<your-username>/sunsets-ai-chatbot.git
+cd sunsets-ai-chatbot
+npm install
+
 This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
 ## Getting Started
