@@ -1,0 +1,41 @@
+{
+  "cancellation": {
+    "groupsUpTo4": "Cancel or change ≥24h prior.",
+    "groups5Plus": "Cancel or change ≥48h prior.",
+    "groups18Plus": "Cancel or change ≥5 days prior.",
+    "noShowFee": "$25 per person charged to card on file for no-shows, late cancellations or last-minute changes (applies regardless of circumstances, including COVID-19)."
+  },
+    "privateEvent": {
+    "required": "Yes, for private or large group bookings.",
+    "howToBook": "Please contact our team directly to discuss your event details.",
+    "contact": "hello@sunsets.space",
+    "notes": "Private events depend on the date, number of guests and venue availability. Our team will provide a tailored quote and requirements once you reach out."
+  },
+  "deposit": {
+    "required": "A card is required to secure all bookings.",
+    "amount": "$25pp",
+    "refund": "Fully refundable if cancelled within the notice period.",
+    "notes": "Deposits are handled through SevenRooms or directly by our reservations team. Please contact hello@sunsets.space for details."
+  },
+  "cake": {
+    "allowed": true,
+    "notice": "Inform at least 24h in advance.",
+    "cakeageFee": "$5 per person",
+    "notes": "Covers serving/handling/cleaning."
+  },
+  "decorations": {
+    "allowed": false,
+    "notes": "No balloons, confetti, or costumes (rooftop venue; weather exposure)."
+  },
+  "weather": "Some sections are weather-dependent; bookings may change or be cancelled without notice. In extreme weather the venue may close and affected bookings will be notified.",
+  "dresscode": "Smart casual. Costumes strictly prohibited.",
+  "tableAllocation": "Requests considered but not guaranteed. Venue has mostly high seating and lounges; furniture cannot be rearranged.",
+  "ageRestrictions": "From 3pm on Saturdays & Sundays, entry is 16+.",
+  "accessibility": "Wheelchair accessible via rear lift (Linton Visitor Carpark). Most seating is high — request accessible table when booking.",
+  "surcharge": {
+    "sunday": "10%",
+    "publicHoliday": "15%"
+  }
+  
+}
+

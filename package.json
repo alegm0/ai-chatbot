@@ -1,0 +1,27 @@
+{
+  "name": "ai-restaurant-chatbot",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "dev": "next dev --turbopack",
+    "build": "next build",
+    "start": "next start",
+    "lint": "next lint"
+  },
+  "dependencies": {
+    "next": "15.4.7",
+    "openai": "^5.19.1",
+    "react": "19.1.0",
+    "react-dom": "19.1.0",
+    "zod": "^3.25.76"
+  },
+  "devDependencies": {
+    "@eslint/eslintrc": "^3",
+    "@tailwindcss/postcss": "^4",
+    "@types/node": "^24.3.0",
+    "@types/react": "19.1.10",
+    "eslint": "^9",
+    "eslint-config-next": "15.4.7",
+    "tailwindcss": "^4"
+  }
+}

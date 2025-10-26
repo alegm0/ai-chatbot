@@ -1,0 +1,22 @@
+
+{
+  "howToBook": "Online for up to 8 guests via the Reservations page.",
+  "groups": {
+    "over8": "Email hello@sunsets.space for groups over 8.",
+    "setMenu9Plus": "Groups of 9+ must opt into the set menu (see MENU page)."
+  },
+  "duration": {
+    "upTo4": "2 hours for bookings of 1–4 guests.",
+    "fivePlus": "2.5 hours for 5+ guests."
+  },
+  "onePerDay": "Only one booking per group per day.",
+  "extend": "To extend your time, contact the team (subject to availability).",
+  "tips": [
+    "Try alternate times or party sizes if unavailable.",
+    "Groups 8+ may require set menus or deposit.",
+    "Groups of 9+ must opt into the set menu.",
+    "1–4 guests: 2h seating; 5+ guests: 2.5h.",
+    "Only one booking per group per day; ask us to extend if available."
+  ],
+  "contact": "hello@sunsets.space"
+}

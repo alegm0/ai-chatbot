@@ -1,0 +1,12 @@
+{
+  "accepted": ["Visa", "Mastercard", "Amex", "Cash"],
+  "contactless": ["Apple Pay", "Google Pay"],
+  "splitBill": "Available for up to 3 payments per table.",
+  "surcharge": {
+    "card": "Card processing fee may apply.",
+    "amex": "Amex surcharge may apply.",
+    "sunday": "10%",
+    "publicHoliday": "15%"
+  },
+  "notes": "All payments must be settled before leaving the venue. Cash payments are accepted at the bar."
+}

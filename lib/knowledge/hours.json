@@ -1,0 +1,16 @@
+{
+  "timezone": "Australia/Brisbane",
+  "hours": {
+    "monday":    { "open": null,   "close": null,   "kitchenClose": null },
+    "tuesday":   { "open": null,   "close": null,   "kitchenClose": null },
+    "wednesday": { "open": "12:00pm","close": "22:00","kitchenClose": "21:30" },
+    "thursday":  { "open": "12:00","close": "22:00","kitchenClose": "21:30" },
+    "friday":    { "open": "12:00","close": "22:00","kitchenClose": "21:30" },
+    "saturday":  { "open": "12:00","close": "22:00","kitchenClose": "21:30" },
+    "sunday":    { "open": "12:00","close": "21:00","kitchenClose": "20:30" }
+  },
+  "notes": [
+    "Public holidays may vary.",
+    "Private events can affect hours."
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "name": "Bottomless Sundaze",
+  "seating": "Available to order between 12pm–1pm; session length 2 hours.",
+  "price": "$80pp (banquet + selected bottomless beverages)",
+  "beverages": [
+    "La Zona Prosecco (VIC)",
+    "Jules Taylor Sauvignon Blanc (NZ)",
+    "Schwarz Rosé (SA)",
+    "Protégé Pinot Noir (TAS)",
+    "Byron Bay Lager",
+    "Stone & Wood Pacific Ale",
+    "James Squire Alcoholic Ginger Beer",
+    "Signature Mocktails"
+  ],
+  "banquet": [
+    "Natural appellation rock oysters, sunsets mignonette, citrus (gf, df)",
+    "Beer battered chips, signature spiced salt",
+    "Grilled roman style flatbread (gfo)",
+    "Burrata, blistered & marinated heirloom tomatoes, basil, cabernet vinegar (v)",
+    "Classic pork meatballs, vodka tomato sauce, parmesan, grilled herb",
+    "Fried cauliflower, tahini lemon sauce, sesame za’atar (gf, v)"
+  ],
+  "notes": "Reservations recommended; walk-ins subject to availability. Whole table participation required. Last orders 15 minutes before the end of the session. Service is responsible and may be refused if intoxicated."
+}

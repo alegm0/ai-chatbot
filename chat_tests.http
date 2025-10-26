@@ -1,0 +1,43 @@
+@base = http://localhost:3000
+
+### Horario hoy
+POST {{base}}/api/chat
+Content-Type: application/json
+
+{ "text": "¿Hasta qué hora abren hoy?" }
+
+### Cocina hoy
+POST {{base}}/api/chat
+Content-Type: application/json
+
+{ "text": "¿Hasta qué hora cocina hoy?" }
+
+### Recomendación cóctel
+POST {{base}}/api/chat
+Content-Type: application/json
+
+{ "text": "¿Qué cóctel me recomiendas?" }
+
+### Gluten free
+POST {{base}}/api/chat
+Content-Type: application/json
+
+{ "text": "Opciones sin gluten" }
+
+### Ubicación
+POST {{base}}/api/chat
+Content-Type: application/json
+
+{ "text": "¿Dónde están ubicados?" }
+
+### Queja (debe escalar)
+POST {{base}}/api/chat
+Content-Type: application/json
+
+{ "text": "¡Esto es inaceptable, mi reserva no aparece!" }
+
+### Gracias (debe cerrar)
+POST {{base}}/api/chat
+Content-Type: application/json
+
+{ "text": "gracias" }
