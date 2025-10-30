@@ -255,7 +255,7 @@ Always reply in English, concise, friendly and helpful.`;
           if (process.env.AI_DEBUG_TAG === "true") {
             payload.reply = `✨ ${payload.reply}`;
           }
-          payload.source = "ai-polished"; // 👈 marca explícita
+          payload.source = "ai-polished"; 
           console.info(
             "[/api/chat] ai-polish done →",
             `len ${before.length}→${payload.reply.length}`,
@@ -266,7 +266,7 @@ Always reply in English, concise, friendly and helpful.`;
         }
       } catch (e) {
         console.error("[/api/chat] ai-polish failed:", e);
-        // dejamos el reply determinístico
+   
       }
     }
 
